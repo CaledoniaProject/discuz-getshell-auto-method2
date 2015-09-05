@@ -22,3 +22,5 @@
 
 ##### Legal Disclaimer
 
+Using this tool is legit but hacking may not be. The author does not take any responsibility for such activities.
+
