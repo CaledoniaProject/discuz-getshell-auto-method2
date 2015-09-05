@@ -1,5 +1,9 @@
 #### Discuz 全自动 GetShell
 
+本方法比写 config_ucenter.php 更加稳定，而且不易出错
+
+#### 用法
+
 打开 `dzhack.php`, 找到 
 
 ```
