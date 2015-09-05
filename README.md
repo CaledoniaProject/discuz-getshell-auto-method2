@@ -26,6 +26,7 @@ list ($status, $data) = $dz->hack (
 
 ![Screenshot] (https://raw.githubusercontent.com/CaledoniaProject/discuz-getshell-auto-method2/master/contrib/screenshot.png "Desktop screenshot")
 
+觉得方便的话，可以顺便把参数改成 argv[1] 和 argv[2]
 
 #### 常见失败原因
 
