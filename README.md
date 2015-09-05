@@ -24,6 +24,9 @@ list ($status, $data) = $dz->hack (
 
 会在 `data/client.php` 下面生成一个 webshell,
 
+![Screenshot] (https://raw.githubusercontent.com/CaledoniaProject/discuz-getshell-auto-method2/master/contrib/screenshot.png "Desktop screenshot")
+
+
 #### 常见失败原因
 
 1. 新版 Dz 防御了 XSS，所以没法 POST XML
